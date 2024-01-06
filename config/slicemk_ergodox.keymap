@@ -16,8 +16,7 @@
     &kp LSFT   &kp Z      &kp X      &kp C      &kp V      &kp B      &kp LPAR   &kp RPAR   &kp N      &kp M      &kp COMMA  &kp DOT    &kp SLASH  &kp RSFT
     &kp LCTL   &kp K_CMENU &kp LGUI  &kp LGUI   &kp LALT                                               &kp RCTL   &kp LEFT   &kp UP     &kp DOWN   &kp RIGHT
                                                            &kp LEFT   &kp RIGHT  &kp LEFT   &kp RIGHT
-                                                                      &kp UP     &kp UP
-                                                &kp SPC    &kp LCTL                         &kp BKSP   &kp RET
+                                                &kp SPC    &kp LCTL    &kp UP     &kp UP    &kp BKSP   &kp RET        
                                                                       &kp DOWN   &kp DOWN
                         >;
                 };
@@ -31,8 +30,7 @@
     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans
     &trans     &trans     &trans     &trans     &trans                                                 &trans     &kp HOME   &kp PGUP   &kp PGDN   &kp END
                                                            &kp HOME   &kp END    &kp HOME   &kp END
-                                                                      &kp PGUP   &kp PGUP
-                                                &trans     &trans                           &kp DEL    &kp PSCRN
+                                                &trans     &trans     &kp PGUP   &kp PGUP   &kp DEL    &kp PSCRN
                                                                       &kp PGDN   &kp PGDN
                         >;
                 };
